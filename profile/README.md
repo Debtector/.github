@@ -6,5 +6,5 @@
   <h3>Lightweight, open-source debt calculator for easy tracking.</h3>
   <h4>Find out more @</h4>
   <!-- Fork Button -->
-  <a href="https://github.com/Debtector/Debtector" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Fork-Debtector?style=for-the-badge&logo=GitHub&color=%23348543"></a>
+  <a href="https://github.com/Debtector/Debtector" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Debtector-Debtector?style=for-the-badge&logo=GitHub&color=%23348543"></a>
 </div>
